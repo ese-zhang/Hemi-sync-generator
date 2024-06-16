@@ -45,16 +45,19 @@ Make sure you have add your ffmpeg into the system path.
 1. 克隆仓库| Clone the repository
 
 git clone https://github.com/ese-zhang/binaural-beats-audio-processor.git
+
 cd binaural-beats-audio-processor
 
 2. 编译代码|Make up
 
 pyinstaller --onefile --windowed --name binaural_beat_generator binaural_beat_generator.py
+
 pyinstaller binaural_beat_generator.spec
 
 3. 运行|Run
 
 在dist中运行exe文件。
+
 run exe in folder dist.
 
 4. 使用| Enjoy it.
