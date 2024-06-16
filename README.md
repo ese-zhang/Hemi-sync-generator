@@ -41,6 +41,7 @@ pydub numpy scipy
 Make sure you have add your ffmpeg into the system path.
 
 ## 使用方法| Usage
+
 1. 克隆仓库| Clone the repository
 
 git clone https://github.com/ese-zhang/binaural-beats-audio-processor.git
@@ -60,7 +61,9 @@ run exe in folder dist.
 
 
 ## 代码解释 | Code Explanation
+
 ### 主要功能 | Main Functions
+
 **load_files**: 允许用户选择多个音频文件进行处理。
 
 **choose_output_folder**: 允许用户选择输出文件夹。
@@ -91,18 +94,24 @@ run exe in folder dist.
 
 
 ## 贡献 | Contributing
+
 欢迎贡献！请随时提交拉取请求。
+
 Contributions are welcome! Please feel free to submit a Pull Request.
 ## 许可证 | License
+
 此项目使用 MIT 许可证。详情请参阅 LICENSE 文件。
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 ## 致谢 | Acknowledgments
+
 该程序使用了以下库：
 
 pydub
 numpy
 scipy
 ## 联系方式 | Contact
+
 如果您有任何问题或建议，请提交问题或联系我：hectorzhang4253@gmail.com
 
 If you have any questions or suggestions, please open an issue or contact me at hectorzhang4253@gmail.com
